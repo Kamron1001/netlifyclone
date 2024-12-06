@@ -198,7 +198,7 @@ export const songsData = [
         name: "Ransom",
         image: img4,
         file:song4,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Lil Tecca",
         duration:"2:50"
     },
     {
@@ -206,12 +206,12 @@ export const songsData = [
         name: "500lbs",
         image: img4,
         file:song5,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Lil Tecca",
         duration:"3:10"
     },
     {
         id:5,
-        name: "Song Six",
+        name: "the-cat-empire-the-lost-song",
         image: img7    ,
         file:song6,
         desc:"Put a smile on your face with these happy tunes",
@@ -219,234 +219,234 @@ export const songsData = [
     },
     {
         id:6,
-        name: "Song Seven",
+        name: "grustnaya-muzyka",
         image: img7,
         file:song7,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"vyvody",
         duration:"2:18"
     },
     {
         id:7,
-        name: "Song Eight",
+        name: "I Know",
         image: img7,
         file:song8,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Irma",
         duration:"2:35"
     },
     {
         id: 9,
-        name: "Song Eight",
+        name: "snegopadom",
         image: img9,
         file:song9,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"dima-korso-pod",
         duration:"2:35"
     },
     {
         id: 10,
-        name: "Song ",
+        name: "shirjaeva-imena-na-zapjaste",
         image: img9,
         file:songR1,
-        desc:"Put on your face with these happy tunes",
+        desc:"snezhana",
         duration:"2:35"
     },
     {
         id: 11,
-        name: "Song Eight",
+        name: "zvezda",
         image: img9,
         file:songR2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"andzorik-moja",
         duration:"2:35"
     },
     {
         id: 12,
-        name: "Song Eight",
+        name: "Voruju",
         image: img9,
         file:songR3,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Bodiev",
         duration:"2:35"
     },
     {
         id: 13,
-        name: "Song Eight",
+        name: "Bilety",
         image: img9,
         file:songR4,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Bodiev",
         duration:"2:35"
     },
     {
         id: 14,
-        name: "Song Eight",
+        name: "murashki",
         image: img9,
         file:songR5,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Pdanja-neradin",
         duration:"2:35"
     },
     {
         id: 15,
-        name: "Song Eight",
+        name: "Игра",
         image: img9,
         file:songR6,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"ШкольниК feat. Бау",
         duration:"2:35"
     },
     {
         id: 16,
-        name: "Song Eight",
+        name: "Infinity 2018 (Klaas Remix)",
         image: img9,
         file:songR7,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Sean Finn & Guru Josh",
         duration:"2:35"
     },
     {
         id: 17,
-        name: "Song Eight",
+        name: "Come Back",
         image: img9,
         file:songR8,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Dzemoski9",
         duration:"2:35"
     },
     {
         id: 18,
-        name: "Song Eight",
+        name: "Лишь о тебе",
         image: img9,
         file:songR9,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"DiMax",
         duration:"2:35"
     },
     {
         id: 19,
-        name: "Song Eight",
+        name: "Lot Of Me",
         image: img4,
         file:songL1,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Lil Tecca",
         duration:"2:35"
     },
     {
         id: 20,
-        name: "Song Eight",
+        name: "Never Left",
         image: img4,
         file:songL2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Lil Tecca",
         duration:"2:35"
     },
     {
         id: 21,
-        name: "Song Eight",
+        name: "Amigo",
         image: img4,
         file:songL2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Lil Tecca",
         duration:"2:35"
     },
     {
         id: 22,
-        name: "Song Eight",
+        name: "HVN ON EARTH (Feat. Kodak Black)",
         image: img4,
         file:songL3,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Lil Tecca",
         duration:"2:35"
     },
     {
         id: 23,
-        name: "Song Eight",
+        name: "Money On Me",
         image: img4,
         file:songL4,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Lil Tecca",
         duration:"2:35"
     },
     {
         id: 24,
-        name: "Song Eight",
+        name: "SEASIDE",
         image: img4,
         file:songL5,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Lil Tecca",
         duration:"2:35"
     },
     {
         id: 25,
-        name: "Song Eight",
+        name: "CAUTION",
         image: img4,
         file:songL6,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Lil Tecca",
         duration:"2:35"
     },
     {
         id: 26,
-        name: "Song Eight",
+        name: "All Star",
         image: img4,
         file:songL7,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Lil Tecca",
         duration:"2:35"
     },
     {
         id: 27,
-        name: "Song Eight",
+        name: "Fanstic Voyage",
         image: img4,
         file:songL8,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Coolio",
         duration:"2:35"
     },
     {
         id: 28,
-        name: "Song Eight",
+        name: "Coolio Feat. L.V.",
         image: img11,
         file:songRaps1,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Gangsta's Paradise",
         duration:"2:35"
     },
     {
         id: 29,
-        name: "Song Eight",
+        name: "D4L",
         image: img11,
         file:songRaps2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Game Owe Me",
         duration:"2:35"
     },
     {
         id: 30,
-        name: "Song Eight",
+        name: "Growin' Up",
         image: img11,
         file:songRaps3,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Ice Cube",
         duration:"2:35"
     },
     {
         id: 31,
-        name: "Song Eight",
+        name: "Sky Might Fal",
         image: img11,
         file:songRaps4,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Kid Cudi",
         duration:"2:35"
     },
     {
         id: 32,
-        name: "Song Eight",
+        name: "Yo!! Sweetness",
         image: img11,
         file:songRaps5,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"MC Hammer",
         duration:"2:35"
     },
     {
         id: 33,
-        name: "Song Eight",
+        name: "Jump",
         image: img11,
         file:songRaps6,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Lecrae",
         duration:"2:35"
     },
     {
         id: 34,
-        name: "Song Eight",
+        name: "Pain",
         image: img11,
         file:songRaps7,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Ice T",
         duration:"2:35"
     },
     {
         id: 35,
-        name: "Song Eight",
+        name: "Ice Ice Baby",
         image: img11,
         file:songRaps8,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Vantilla Ice",
         duration:"2:35"
     },
     {
@@ -459,130 +459,130 @@ export const songsData = [
     },
     {
         id: 37,
-        name: "Song Eight",
+        name: "Kalimba De Luna",
         image: img10,
         file:songS2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Tony Esposito ",
         duration:"2:35"
     },
     {
         id: 38,
-        name: "Song Eight",
+        name: "Break It Up",
         image: img10,
         file:songS3,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Scooter",
         duration:"2:35"
     },
     {
         id: 39,
-        name: "Song Eight",
+        name: "A Thousand Words",
         image: img10,
         file:songS4,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Savage Garden ",
         duration:"2:35"
     },
     {
         id: 40,
-        name: "Song Eight",
+        name: "SMysterious Times",
         image: img10,
         file:songS5,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Sash",
         duration:"2:35"
     },
     {
         id: 41,
-        name: "Song Eight",
+        name: "Always On My Mind",
         image: img10,
         file:songS6,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Pet Shop Boys",
         duration:"2:35"
     },
     {
         id: 42,
-        name: "Song Eight",
+        name: "Petite Soeu",
         image: img10,
         file:songS7,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Laam",
         duration:"2:35"
     },
     {
         id: 42,
-        name: "Song Eight",
+        name: "Waiting For You",
         image: img10,
         file:songS8,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Kenny G",
         duration:"2:35"
     },
     {
         id: 43,
-        name: "Song Eight",
+        name: "Alright 2015 - Remaster.",
         image: img15,
         file:songH1,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Supergrass ",
         duration:"2:35"
     },
     {
         id: 44,
-        name: "Song Eight",
+        name: "Ain't Got No, I've Got Life",
         image: img15,
         file:songH2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Nina Simone",
         duration:"2:35"
     },
     {
         id: 45,
-        name: "Song Eight",
+        name: "Turnaround",
         image: img15,
         file:songH3,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Alfred – 1, 2, 3",
         duration:"2:35"
     },
     {
         id: 46,
-        name: "Song Eight",
+        name: " S.T.O.P.",
         image: img15,
         file:songH4,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"The Lorelei",
         duration:"2:35"
     },
     {
         id: 47,
-        name: "Song Eight",
+        name: "The Shiffers",
         image: img15,
         file:songH5,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Body Down",
         duration:"2:35"
     },
     {
         id: 48,
-        name: "Song Eight",
+        name: "Finghin Collins",
         image: img15,
         file:songH6,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Piano Sonata No. 11 in A Major",
         duration:"2:35"
     },
     {
         id: 49,
-        name: "Song Eight",
+        name: "Steve Sidwell ",
         image: img15,
         file:songH7,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"The Mambo Inn",
         duration:"2:35"
     },
     {
         id: 50,
-        name: "Song Eight",
+        name: "Mas Que Nada",
         image: img15,
         file:songH8,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Luiz Henrique ",
         duration:"2:35"
     },
     {
         id: 51,
-        name: "Song Eight",
+        name: "When The Good Go Bad Song ",
         image: img15,
         file:songH9,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Jaco Caraco ",
         duration:"2:35"
     }
 ]

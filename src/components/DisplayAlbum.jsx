@@ -9,10 +9,8 @@ const DisplayAlbum = () => {
     const albumData = albumsData[id];
     const { playWithId } = useContext(PlayerContext);
 
-    // Фильтрация песен по альбому
     const albumSongs = songsData.filter(song => albumData.songs.includes(song.id));
 
-    // Разделение песен на строки по 12 элементов
     const chunkArray = (array, size) => {
         const chunks = [];
         for (let i = 0; i < array.length; i += size) {
